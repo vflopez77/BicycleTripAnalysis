@@ -1,2 +1,2 @@
 # BicycleTripAnalysis
-Machine Learning Project to Predict Type of Bicycle Ridden
+Machine Learning Project to Predict Type of Bicycle Ridden by Analyzing Trip Data
