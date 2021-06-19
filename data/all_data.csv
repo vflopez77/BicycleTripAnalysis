@@ -1,364 +1,368 @@
 Date,Destination,Miles,Hours,Minutes,Duration,Speed,Type
-7/17/16,Down ES UP WS,17.67,2.0,5.0,2.08,8.48,Specialized
-10/21/16,Citibike from Work,3.51,,26.0,0.43,8.1,Citibike
-5/17/21,Dn ES Up LWS,16.27,1.0,57.0,1.95,8.34,Specialized
-7/6/19,Down ES Up WS,16.12,2.0,12.0,2.2,7.33,Specialized
-8/25/16,Citibike to Work,1.18,,10.0,0.17,7.08,Citibike
-9/2/16,Citibike to Work,1.27,,9.0,0.15,8.47,Citibike
-10/28/19,Up Down WS,10.88,1.0,25.0,1.42,7.68,Specialized
-7/26/20,Wards Island,12.67,1.0,35.0,1.58,8.0,Specialized
-6/16/20,Down WS Up WS to GWB,26.63,3.0,8.0,3.13,8.5,Specialized
-7/1/16,Citibike from Work,0.83,,7.0,0.12,7.11,Citibike
-10/13/19,Down ES Up UWS,21.72,2.0,52.0,2.87,7.58,Specialized
-10/24/16,Citibike to Work,1.39,,9.0,0.15,9.27,Citibike
-9/14/16,Citibike to Work,1.09,,11.0,0.18,5.95,Citibike
-10/2/18,Down ES UP WS,15.97,2.0,18.0,2.3,6.94,Specialized
-11/16/20,Up Dn UWS,9.55,1.0,10.0,1.17,8.19,Specialized
-9/10/16,Down ES UP WS,20.41,2.0,26.0,2.43,8.39,Specialized
-10/18/16,Citibike from Work,0.92,,9.0,0.15,6.13,Citibike
-9/19/19,Wards Island,12.38,1.0,32.0,1.53,8.07,Specialized
-8/17/16,Citibike from Work,0.96,,10.0,0.17,5.76,Citibike
-5/27/20,Up Down WS to GWB,17.13,2.0,5.0,2.08,8.22,Specialized
-8/27/19,CP BL x 2,13.66,1.0,49.0,1.82,7.52,Specialized
-8/4/19,Down ES Up WS,16.79,2.0,2.0,2.03,8.26,Specialized
-11/4/16,Citibike to Work,1.12,,10.0,0.17,6.72,Citibike
-4/18/21,Dn ES Up LWS,16.25,2.0,5.0,2.08,7.8,Specialized
-8/6/19,CP BL Up Down WS,15.0,1.0,46.0,1.77,8.49,Specialized
-5/24/20,CP BL,7.71,,49.0,0.82,9.44,Specialized
-4/14/20,CP BL x 3,19.93,2.0,6.0,2.1,9.49,Specialized
-10/15/19,Wards Island,14.2,1.0,44.0,1.73,8.19,Specialized
-9/28/20,Wards Island x 2,17.69,2.0,1.0,2.02,8.77,Specialized
-9/6/16,Citibike from Work,0.91,,10.0,0.17,5.46,Citibike
-3/9/20,Wards Island,11.11,1.0,20.0,1.33,8.33,Specialized
-6/3/20,To From Economy Candy,8.08,1.0,10.0,1.17,6.93,Specialized
-10/3/16,Citibike to Work,1.31,,10.0,0.17,7.86,Citibike
-11/28/16,Citibike from Work,0.81,,7.0,0.12,6.94,Citibike
-6/29/16,Citibike to Work,1.16,,10.0,0.17,6.96,Citibike
-7/22/20,Down Up LWS,14.82,1.0,47.0,1.78,8.31,Specialized
-9/20/16,Citibike from Work Midday,0.9,,12.0,0.2,4.5,Citibike
-11/2/19,Wards Island,14.2,2.0,9.0,2.15,6.6,Specialized
-8/28/20,To Fogo de Chao,1.65,,13.0,0.22,7.62,Citibike
-9/25/20,To Fairway ES,1.56,,14.0,0.23,6.69,Citibike
-6/23/19,Up ES Down WS,20.76,2.0,58.0,2.97,7.0,Specialized
-8/9/20,Down ES Up LWS,15.04,1.0,42.0,1.7,8.85,Specialized
-8/4/18,Summer Streets,11.55,1.0,25.0,1.42,8.15,Specialized
-11/12/16,To Essex Market,3.43,,29.0,0.48,7.1,Citibike
-10/19/18,CP BL,7.44,,52.0,0.87,8.58,Specialized
-11/28/16,Citibike to Work,1.15,,11.0,0.18,6.27,Citibike
-8/29/19,Wards Island,11.05,1.0,32.0,1.53,7.21,Specialized
-11/4/20,CP BL,7.81,0.0,51.0,0.85,9.19,Specialized
-8/15/20,Wards Island,12.7,1.0,36.0,1.6,7.94,Specialized
-8/8/16,Citibike to Work,1.25,,10.0,0.17,7.5,Citibike
-4/6/21,Wards Island,12.59,1.0,47.0,1.78,7.06,Specialized
-8/4/16,Citibike to Work,1.4,,11.0,0.18,7.64,Citibike
-5/2/21,Dn ES Up WS to GWB,29.47,3.0,7.0,3.12,9.46,Specialized
-6/15/16,Citibike to Work,1.04,,9.0,0.15,6.93,Citibike
-10/25/16,Citibike to Work,1.46,,10.0,0.17,8.76,Citibike
-9/15/16,Citibike from Work,0.82,,7.0,0.12,7.03,Citibike
-6/26/16,To SOHO,3.33,,30.0,0.5,6.66,Citibike
-1/17/21,Dn ES Up LWS,15.41,2.0,2.0,2.03,7.58,Specialized
-8/20/16,Summer Streets Up WS,17.46,2.0,21.0,2.35,7.43,Specialized
-9/22/16,Work to Westside,4.26,,29.0,0.48,8.81,Citibike
-3/20/20,From Despana,4.28,,40.0,0.67,6.42,Citibike
-10/12/16,Citibike to Work,1.49,,10.0,0.17,8.94,Citibike
-9/16/16,Citibike from Work,1.01,,7.0,0.12,8.66,Citibike
-9/9/16,Citibike to Work,1.11,,11.0,0.18,6.05,Citibike
-10/13/16,Work to 68th St.,1.29,,10.0,0.17,7.74,Citibike
-8/17/16,Citibike to Work,1.27,,11.0,0.18,6.93,Citibike
-11/19/16,Down ES UP WS,16.1,1.0,56.0,1.93,8.33,Specialized
-9/15/16,Citibike to Work,1.3,,10.0,0.17,7.8,Citibike
-9/4/16,Down ES UP WS,16.7,1.0,56.0,1.93,8.64,Specialized
-8/19/16,Citibike from Work,1.24,,7.0,0.12,10.63,Citibike
-7/10/16,Down ES UP WS,18.38,2.0,20.0,2.33,7.88,Specialized
-7/28/16,Citibike to Work,1.05,,8.0,0.13,7.88,Citibike
-2/24/21,Dn ES Up LWS,14.65,1.0,54.0,1.9,7.71,Specialized
-9/7/20,Wards Island x 2,17.75,2.0,10.0,2.17,8.19,Specialized
-11/16/16,Citibike from Work,1.72,,15.0,0.25,6.88,Citibike
-9/24/20,Wards Island x 4,28.23,3.0,6.0,3.1,9.11,Specialized
-10/11/16,Citibike to Work,1.33,,11.0,0.18,7.25,Citibike
-9/11/19,CP BL,7.53,1.0,,1.0,7.53,Specialized
-9/3/16,Essex Market,3.38,,28.0,0.47,7.24,Citibike
-9/17/20,Wards Island,12.7,1.0,33.0,1.55,8.19,Specialized
-8/28/18,CP BL,6.78,,43.0,0.72,9.46,Specialized
-9/8/19,Wards Island,11.43,1.0,32.0,1.53,7.45,Specialized
-9/23/16,Citibike to Work,1.1,,11.0,0.18,6.0,Citibike
-8/31/20,To Marimekko,2.6,,21.0,0.35,7.43,Citibike
-9/19/20,Dn ES Up WS,17.21,1.0,59.0,1.98,8.68,Specialized
-8/5/16,Citibike to Work,1.31,,10.0,0.17,7.86,Citibike
-4/19/20,CP BL,7.77,,49.0,0.82,9.51,Specialized
-12/24/20,Dn ES Up LWS,13.79,1.0,41.0,1.68,8.19,Specialized
-8/30/19,CP BL x 2,13.7,1.0,59.0,1.98,6.91,Specialized
-9/17/19,CP BL,7.31,,59.0,0.98,7.43,Specialized
-8/3/18,CP BL,6.75,,47.0,0.78,8.62,Specialized
-7/8/20,From Citarella,1.18,,13.0,0.22,5.45,Citibike
-6/10/20,UWS to Inwood,22.06,2.0,58.0,2.97,7.44,Specialized
-4/23/21,Wards Island,13.05,1.0,38.0,1.63,7.99,Specialized
-11/18/16,Citibike from Work,0.84,,7.0,0.12,7.2,Citibike
-6/4/19,To Essex Market,3.51,,35.0,0.58,6.02,Citibike
-9/30/19,CP BL x 2,13.6,1.0,44.0,1.73,7.85,Specialized
-9/3/16,Down ES UP WS,16.72,1.0,52.0,1.87,8.96,Specialized
-8/24/16,Citibike to Work,1.48,,13.0,0.22,6.83,Citibike
-7/14/16,Citibike to Work,1.32,,11.0,0.18,7.2,Citibike
-8/9/19,Down ES Up WS to GWB,26.64,3.0,35.0,3.58,7.43,Specialized
-11/28/19,Down ES up ES,14.54,1.0,48.0,1.8,8.08,Specialized
-8/26/19,Down ES Up UWS,21.9,2.0,55.0,2.92,7.51,Specialized
-9/4/20,From Astor Wines,3.72,,31.0,0.52,7.2,Citibike
-3/21/21,Dn ES Up LWS,15.74,2.0,1.0,2.02,7.8,Specialized
-6/27/16,Citibike from Work,0.93,,7.0,0.12,7.97,Citibike
-8/24/20,Dn WS Up ES,17.12,2.0,5.0,2.08,8.22,Specialized
-11/9/20,Dn ES Up WS,17.7,2.0,3.0,2.05,8.63,Specialized
-6/17/16,Citibike to Work,1.2,,13.0,0.22,5.54,Citibike
-6/27/16,Citibike to Work,1.08,,11.0,0.18,5.89,Citibike
-5/5/21,Dn UWS Up ES,21.25,2.0,31.0,2.52,8.44,Specialized
-11/14/16,Citibike to Work,1.22,,11.0,0.18,6.65,Citibike
-9/13/20,CP BL,7.51,0.0,42.0,0.7,10.73,Specialized
-3/26/20,CP BL x 2,13.52,1.0,28.0,1.47,9.22,Specialized
-5/12/21,Dn UWS Up ES,20.94,2.0,26.0,2.43,8.61,Specialized
-11/4/16,Citibike to Work Midday,1.23,,13.0,0.22,5.68,Citibike
-10/17/18,CP BL,6.8,,49.0,0.82,8.33,Specialized
-7/15/19,Up Down ES,3.74,,33.0,0.55,6.8,Specialized
-9/22/16,Citibike to Work,1.05,,11.0,0.18,5.73,Citibike
-7/15/20,CP BL,7.42,,45.0,0.75,9.89,Specialized
-5/25/20,Downtown Trio,4.77,,59.0,0.98,4.85,Specialized
-6/17/18,Work to Village,4.69,,40.0,0.67,7.04,Citibike
-6/1/19,Down ES UP WS,16.91,2.0,30.0,2.5,6.76,Specialized
-9/23/19,CP BL,7.48,,57.0,0.95,7.87,Specialized
-7/24/20,To Zabars,2.07,,16.0,0.27,7.76,Citibike
-8/8/19,To Zabars,2.29,,19.0,0.32,7.23,Citibike
-9/9/16,Citibike from Work,0.96,,7.0,0.12,8.23,Citibike
-6/19/16,Down ES Up ES,13.98,1.0,51.0,1.85,7.56,Specialized
-3/22/20,Wards Island,10.92,1.0,22.0,1.37,7.99,Specialized
-8/27/17,CP BL,6.75,,43.0,0.72,9.42,Specialized
-10/17/16,From Orwasher's,1.56,,12.0,0.2,7.8,Citibike
-1/13/17,Citibike to Work,1.18,,14.0,0.23,5.06,Citibike
-9/9/19,To Essex Market,3.71,,31.0,0.52,7.18,Citibike
-12/3/20,To Artie's in Brooklyn and Back,27.16,3.0,51.0,3.85,7.05,Specialized
-5//11/21,To Toyota,2.49,,21.0,0.35,7.11,Citibike
-5/24/19,CP BL,6.79,,47.0,0.78,8.67,Specialized
-10/17/16,Work to Orwasher's,2.09,,18.0,0.3,6.97,Citibike
-11/16/16,Citibike to Work,1.08,,11.0,0.18,5.89,Citibike
-10/19/20,Wards Island x 2,18.06,2.0,14.0,2.23,8.09,Specialized
-4/8/21,Wards Island,13.25,1.0,44.0,1.73,7.64,Specialized
-7/24/20,From Zabars,2.62,,20.0,0.33,7.86,Citibike
-6/22/20,Wards Island,11.57,1.0,30.0,1.5,7.71,Specialized
-8/3/20,Wards Island,12.5,1.0,45.0,1.75,7.14,Specialized
-10/7/17,CP BL,7.41,,52.0,0.87,8.55,Specialized
-7/30/20,Wards Island Astoria,18.28,2.0,31.0,2.52,7.26,Specialized
-9/8/20,Up WS to GWB Up ES,28.17,3.0,14.0,3.23,8.71,Specialized
-8/18/16,Citibike from Work,0.79,,6.0,0.1,7.9,Citibike
-7/6/20,Down ES Up WS to GWB,27.9,3.0,45.0,3.75,7.44,Specialized
-9/3/19,CP BL,7.53,,51.0,0.85,8.86,Specialized
-12/27/20,From Zabars,1.75,,15.0,0.25,7.0,Citibike
-8/17/20,Up Dn UWS to GWB,16.93,1.0,54.0,1.9,8.91,Specialized
-6/21/16,Citibike to Work,1.12,,10.0,0.17,6.72,Citibike
-7/28/20,CP BL,7.38,,52.0,0.87,8.52,Specialized
-10/11/16,Citibike from Work,0.82,,8.0,0.13,6.15,Citibike
-11/14/16,Citibike from Work,0.82,,7.0,0.12,7.03,Citibike
-11/26/19,Roosevelt Island,5.51,1.0,5.0,1.08,5.09,Specialized
-12/2/16,Citibike to Work,1.17,,11.0,0.18,6.38,Citibike
-7/3/20,Wards Island,12.98,1.0,46.0,1.77,7.35,Specialized
-9/8/16,Citibike to Work,1.05,,11.0,0.18,5.73,Citibike
-11/27/20,Wards Island x 2 Astoria,22.87,2.0,48.0,2.8,8.17,Specialized
-10/10/16,Citibike to Work,2.3,,19.0,0.32,7.26,Citibike
-10/8/18,CP BL,7.55,,52.0,0.87,8.71,Specialized
-10/6/16,Citibike from Work,0.94,,7.0,0.12,8.06,Citibike
-7/16/20,Wards Island,12.8,1.0,36.0,1.6,8.0,Specialized
-9/16/16,Citibike to Work Midday,1.09,,13.0,0.22,5.03,Citibike
-8/7/16,Down ES UP WS,16.89,1.0,57.0,1.95,8.66,Specialized
-5/19/20,Wards Island,12.01,1.0,48.0,1.8,6.67,Specialized
-7/31/20,To Herald Square,2.65,,19.0,0.32,8.37,Citibike
-6/22/20,West Side Errand,5.19,,42.0,0.7,7.41,Specialized
-7/27/16,Citibike to Work,1.24,,11.0,0.18,6.76,Citibike
-8/12/19,CP BL,6.79,,48.0,0.8,8.49,Specialized
-9/6/19,CP BL,7.44,,57.0,0.95,7.83,Specialized
-10/22/20,Wards Island,12.42,1.0,40.0,1.67,7.45,Specialized
-8/2/16,Citibike to Work Midday,1.03,,13.0,0.22,4.75,Citibike
-3/20/20,To Despana,3.5,,30.0,0.5,7.0,Citibike
-9/3/20,Up WS to GWB Up ES,28.49,3.0,7.0,3.12,9.14,Specialized
-8/20/20,Dn WS Up ES thru CP,16.91,2.0,10.0,2.17,7.8,Specialized
-10/24/16,Citibike from Work,1.75,,16.0,0.27,6.56,Citibike
-8/22/20,Wards Island x 2,17.58,2.0,12.0,2.2,7.99,Specialized
-8/4/16,Citibike from Work,1.01,,8.0,0.13,7.58,Citibike
-9/14/20,Dn ES Up WS to GWB,27.71,3.0,2.0,3.03,9.14,Specialized
-6/12/19,CP BL,6.8,,47.0,0.78,8.68,Specialized
-6/24/16,Citibike to Work,1.21,,10.0,0.17,7.26,Citibike
-8/19/16,Citibike to Work,1.16,,10.0,0.17,6.96,Citibike
-6/14/20,Down Up LWS,13.63,1.0,29.0,1.48,9.19,Specialized
-6/23/16,Citibike to Work,1.27,,10.0,0.17,7.62,Citibike
-6/4/20,Down Up LWS,14.52,1.0,54.0,1.9,7.64,Specialized
 6/27/20,Wards Island,13.8,1.0,49.0,1.82,7.6,Specialized
-8/26/20,Dn ES Up WS,17.02,2.0,2.0,2.03,8.37,Specialized
-5/4/20,From Fairway,2.43,,21.0,0.35,6.94,Citibike
-11/17/16,Citibike to Work,1.2,,12.0,0.2,6.0,Citibike
-9/16/16,Citibike from Work Midday,0.74,,6.0,0.1,7.4,Citibike
-6/25/20,Down Up LWS,14.57,2.0,11.0,2.18,6.67,Specialized
-8/3/16,Citibike from Work,0.83,,7.0,0.12,7.11,Citibike
-11/11/19,Wards Island,14.57,1.0,53.0,1.88,7.74,Specialized
-2/24/20,Wards Island,11.66,1.0,33.0,1.55,7.52,Specialized
-9/29/19,Wards Island,14.66,1.0,48.0,1.8,8.14,Specialized
-8/23/16,Citibike to Work,1.46,,15.0,0.25,5.84,Citibike
-7/8/16,Citibike to Work,1.16,,10.0,0.17,6.96,Citibike
-7/26/19,To Essex Market,3.14,,27.0,0.45,6.98,Citibike
-7/28/16,Citibike from Work,0.91,,7.0,0.12,7.8,Citibike
-7/31/20,From Herald Square,2.85,,25.0,0.42,6.84,Citibike
-6/2/20,From Astoria,5.38,,52.0,0.87,6.21,Specialized
-8/16/16,Citibike to Work,1.12,,12.0,0.2,5.6,Citibike
-5/5/20,CP BL,7.83,,50.0,0.83,9.4,Specialized
-8/19/17,Summer Streets,10.08,1.0,14.0,1.23,8.17,Specialized
-5/28/16,CP BL,7.99,,50.0,0.83,9.59,Specialized
-7/8/18,CP BL,7.04,,47.0,0.78,8.99,Specialized
+10/19/18,CP BL,7.44,,52.0,0.87,8.58,Specialized
 10/6/16,Citibike to Work,1.27,,10.0,0.17,7.62,Citibike
-8/3/20,From Kalustyans,2.55,,24.0,0.4,6.38,Citibike
-4/25/19,CP BL,7.46,,54.0,0.9,8.29,Specialized
-9/26/20,Up Dn WS to GWB Up ES,29.69,3.0,10.0,3.17,9.38,Specialized
-10/20/16,Citibike from Work,0.89,,6.0,0.1,8.9,Citibike
-10/5/16,Citibike to Work Midday,1.16,,13.0,0.22,5.35,Citibike
-7/29/20,Wards Island,12.55,1.0,43.0,1.72,7.31,Specialized
-7/11/16,Citibike to Work,1.46,,10.0,0.17,8.76,Citibike
-8/31/20,From Marimekko,2.77,,23.0,0.38,7.23,Citibike
-9/5/20,Wards Island x 2,17.72,2.0,0.0,2.0,8.86,Specialized
-6/9/20,CP BL x 2,13.51,1.0,24.0,1.4,9.65,Specialized
-11/25/19,Wards Island,12.4,1.0,39.0,1.65,7.52,Specialized
-11/6/19,Down ES UP WS,16.63,2.0,,2.0,8.32,Specialized
-4/2/20,CP BL,7.73,,55.0,0.92,8.43,Specialized
-9/12/20,Wards Island x 3,22.91,2.0,35.0,2.58,8.87,Specialized
-3/11/20,Down ES UP WS,17.08,2.0,8.0,2.13,8.01,Specialized
-8/6/20,Down ES Up WS to GWB,28.47,3.0,10.0,3.17,8.99,Specialized
-3/9/21,Dn ES Up LWS,15.9,2.0,20.0,2.33,6.81,Specialized
-9/4/20,To Astor Wines,2.92,,25.0,0.42,7.01,Citibike
-8/18/18,Summer Streets,11.25,1.0,24.0,1.4,8.04,Specialized
-9/20/16,Citibike to Work,1.09,,12.0,0.2,5.45,Citibike
-10/20/16,Citibike to Work,1.15,,9.0,0.15,7.67,Citibike
-4/14/21,Dn ES Up LWS,15.84,1.0,55.0,1.92,8.26,Specialized
-7/25/20,Down Up LWS,14.47,1.0,43.0,1.72,8.43,Specialized
-10/25/16,Citibike from Work,0.82,,7.0,0.12,7.03,Citibike
-7/11/16,Citibike from Work,1.73,,17.0,0.28,6.11,Citibike
-6/7/21,Dn ES Up LWS,16.45,1.0,58.0,1.97,8.36,Specialized
-6/23/20,UWS Thru CP to GWB+,22.42,2.0,54.0,2.9,7.73,Specialized
-9/24/19,CP BL,7.46,,48.0,0.8,9.33,Specialized
-11/27/19,Wards Island,9.93,1.0,27.0,1.45,6.85,Specialized
-7/11/20,Wards Island,13.25,1.0,40.0,1.67,7.95,Specialized
-7/6/16,Citibike to Work,1.2,,10.0,0.17,7.2,Citibike
-3/26/21,To El Tepeyac,3.1,,28.0,0.47,6.64,Citibike
-7/14/16,Citibike from Work,1.07,,8.0,0.13,8.03,Citibike
-6/2/20,To Astoria,5.09,,40.0,0.67,7.64,Specialized
-4/7/20,CP BL x 2,13.98,1.0,43.0,1.72,8.14,Specialized
-8/8/16,Citibike from Work,0.95,,8.0,0.13,7.13,Citibike
-7/3/16,Down ES UP WS,17.84,2.0,10.0,2.17,8.23,Specialized
-5/25/20,Uptown Trio,4.27,,34.0,0.57,7.54,Specialized
-9/2/19,Roosevelt Island,5.87,,57.0,0.95,6.18,Specialized
-9/28/19,Down ES Up WS,16.16,1.0,35.0,1.58,10.21,Specialized
-10/25/18,CP ML,5.93,,36.0,0.6,9.88,Specialized
-9/6/16,Citibike to Work,1.13,,11.0,0.18,6.16,Citibike
-9/27/19,Wards Island,13.24,1.0,39.0,1.65,8.02,Specialized
-6/8/20,To Despana,3.64,,35.0,0.58,6.24,Citibike
-3/24/20,CP BL,7.4,,48.0,0.8,9.25,Specialized
-6/22/16,Citibike to Work,1.45,,10.0,0.17,8.7,Citibike
-11/17/16,Citibike from Work,0.79,,7.0,0.12,6.77,Citibike
-7/29/16,Citibike to Work,1.05,,12.0,0.2,5.25,Citibike
-6/30/19,CP BL,6.79,,42.0,0.7,9.7,Specialized
-7/18/20,CP ML,6.47,,36.0,0.6,10.78,Specialized
-8/28/20,To Marimekko,2.67,,21.0,0.35,7.63,Citibike
-9/14/19,Wards Island,13.27,1.0,40.0,1.67,7.96,Specialized
-6/21/16,Citibike from Work,0.78,,7.0,0.12,6.69,Citibike
-10/5/16,Citibike from Work,0.88,,8.0,0.13,6.6,Citibike
-3/27/21,Dn ES Up UWS to 135,25.17,3.0,6.0,3.1,8.12,Specialized
-7/28/19,Roosevelt Island,4.25,,39.0,0.65,6.54,Specialized
-11/11/16,Citibike to Work,1.3,,11.0,0.18,7.09,Citibike
-12/27/20,To Zabars,2.3,,21.0,0.35,6.57,Citibike
-9/12/16,Citibike from Work,1.04,,7.0,0.12,8.91,Citibike
-8/9/16,Citibike to Work,1.31,,11.0,0.18,7.15,Citibike
-5/14/21,Wards Island,13.05,1.0,36.0,1.6,8.16,Specialized
-8/1/20,Down Up LWS,14.71,1.0,27.0,1.45,10.14,Specialized
-9/20/19,CP BL,7.53,,51.0,0.85,8.86,Specialized
-10/1/19,CP BL,7.43,1.0,6.0,1.1,6.75,Specialized
-9/15/19,Roosevelt Island,6.24,1.0,6.0,1.1,5.67,Specialized
-10/7/16,Citibike to Work,1.22,,12.0,0.2,6.1,Citibike
-9/17/16,Down ES UP WS,17.25,1.0,49.0,1.82,9.5,Specialized
-3/12/20,To Essex Market,3.85,,35.0,0.58,6.6,Citibike
-8/10/20,Wards Island,12.83,1.0,56.0,1.93,6.64,Specialized
-9/23/16,Citibike from Work,1.2,,7.0,0.12,10.29,Citibike
-12/11/20,Dn ES Up WS,21.6,2.0,36.0,2.6,8.31,Specialized
-4/28/20,CP BL,7.81,,50.0,0.83,9.37,Specialized
-9/12/16,Citibike to Work,1.15,,11.0,0.18,6.27,Citibike
-5/26/20,Down Up LWS,13.35,1.0,30.0,1.5,8.9,Specialized
-7/5/19,CP BL,6.76,,52.0,0.87,7.8,Specialized
-9/22/20,Up Dn WS to GWB Up ES,28.57,2.0,56.0,2.93,9.74,Specialized
-8/3/20,To Kalustiyans,1.96,,16.0,0.27,7.35,Citibike
-6/7/20,To From Astoria,8.25,2.0,1.0,2.02,4.09,Specialized
-5/19/21,Up Dn WS to GWB Up ES,29.87,3.0,14.0,3.23,9.24,Specialized
-10/4/16,Citibike to Work,1.36,,11.0,0.18,7.42,Citibike
-8/2/16,Citibike to Work,1.29,,11.0,0.18,7.04,Citibike
-8/3/16,Citibike to Work,1.53,,11.0,0.18,8.35,Citibike
-11/11/20,Dn ES Up LWS,14.81,1.0,40.0,1.67,8.89,Specialized
-6/28/20,Uptown Trio,3.95,,26.0,0.43,9.12,Specialized
-8/13/20,Down LWS Up LES,14.75,1.0,57.0,1.95,7.56,Specialized
-9/6/20,Dn ES UP WS,17.3,1.0,55.0,1.92,9.03,Specialized
-8/6/16,Summer Streets,13.91,1.0,54.0,1.9,7.32,Specialized
-7/14/20,Down Up LWS,14.34,1.0,41.0,1.68,8.52,Specialized
-10/8/20,Wards Island x 2,17.71,2.0,7.0,2.12,8.37,Specialized
-11/11/16,Citibike from Work,1.0,,10.0,0.17,6.0,Citibike
-10/18/16,Citibike to Work,1.23,,10.0,0.17,7.38,Citibike
-5/7/20,CP BL x 2,13.86,1.0,32.0,1.53,9.04,Specialized
-10/12/16,Citibike from Work,0.84,,7.0,0.12,7.2,Citibike
-4/16/20,CP BL,7.81,,48.0,0.8,9.76,Specialized
-6/26/19,CP BL x 2,12.93,1.0,30.0,1.5,8.62,Specialized
-9/20/16,Citibike to Work Midday,1.3,,10.0,0.17,7.8,Citibike
-10/17/16,Citibike to Work,1.19,,10.0,0.17,7.14,Citibike
-8/30/20,Wards Island x 2,17.56,2.0,7.0,2.12,8.3,Specialized
-9/16/19,From Pier 11,5.91,,49.0,0.82,7.24,Citibike
-6/15/20,Up Down WS to GWB,17.09,1.0,54.0,1.9,8.99,Specialized
-8/31/19,Up UWS Down WS Up ES,21.56,2.0,25.0,2.42,8.92,Specialized
-6/21/20,Down Up Trio (Partial),14.2,2.0,32.0,2.53,5.61,Specialized
-5/13/20,CP BL x 2,13.82,1.0,32.0,1.53,9.01,Specialized
-6/18/20,Wards Island,11.93,1.0,38.0,1.63,7.3,Specialized
-12/2/16,Citibike from Work,0.92,,7.0,0.12,7.89,Citibike
-10/4/16,Citibike from Work,0.82,,7.0,0.12,7.03,Citibike
-5/17/20,CP BL,7.71,,48.0,0.8,9.64,Specialized
-7/5/20,UWS to GWB Down Thru CP,17.63,1.0,56.0,1.93,9.12,Specialized
-11/5/20,Dn UWS Up ES,21.25,2.0,36.0,2.6,8.17,Specialized
-10/19/16,Citibike to Work,1.53,,10.0,0.17,9.18,Citibike
-10/12/18,CP BL,6.77,,58.0,0.97,7.0,Specialized
-5/2/20,Wards Island,12.64,1.0,44.0,1.73,7.29,Specialized
-11/4/16,Citibike from Work Midday,0.86,,9.0,0.15,5.73,Citibike
-5/23/21,Wards Island,14.52,1.0,58.0,1.97,7.38,Specialized
-6/29/20,Wards Island,11.71,1.0,52.0,1.87,6.27,Specialized
-12/29/20,To Trek WS,3.39,,19.0,0.32,10.71,Citibike
-12/3/16,Down ES UP WS,16.08,2.0,2.0,2.03,7.91,Specialized
-6/30/20,Down Up LWS,14.95,1.0,48.0,1.8,8.31,Specialized
-12/28/20,To Trek WS,4.98,,40.0,0.67,7.47,Specialized
-8/5/16,Work to Lupe's,3.89,,24.0,0.4,9.73,Citibike
-10/13/16,Citibike to Work,1.16,,9.0,0.15,7.73,Citibike
-11/7/20,Wards Island x 2,17.75,2.0,1.0,2.02,8.8,Specialized
-8/5/19,Up ES Up UWS,14.22,1.0,33.0,1.55,9.17,Specialized
-6/8/20,From Warehouse Wines,2.83,,31.0,0.52,5.48,Citibike
-8/24/16,Citibike from Work,0.83,,8.0,0.13,6.23,Citibike
-4/12/20,CP BL x 2,13.81,1.0,48.0,1.8,7.67,Specialized
-7/16/16,Down ES UP WS,17.99,2.0,5.0,2.08,8.64,Specialized
-6/28/20,Downtown Trio,4.1,,34.0,0.57,7.24,Specialized
-7/24/19,Down ES Up WS,16.29,2.0,36.0,2.6,6.27,Specialized
-6/24/16,Work to W 4th,3.63,,27.0,0.45,8.07,Citibike
-4/5/20,CP BL,7.77,,48.0,0.8,9.71,Specialized
-5/31/21,CP BL,7.69,,50.0,0.83,9.23,Specialized
-1/13/17,Citibike from Work,1.01,,8.0,0.13,7.58,Citibike
-7/13/20,Wards Island,13.59,1.0,43.0,1.72,7.92,Specialized
-8/2/16,Citibike from Work,0.98,,8.0,0.13,7.35,Citibike
-8/16/16,Citibike from Work,1.11,,10.0,0.17,6.66,Citibike
-9/4/19,Down ES Up UWS,21.96,2.0,46.0,2.77,7.94,Specialized
-7/27/19,Wards Island,11.01,1.0,41.0,1.68,6.54,Specialized
-4/6/20,CP BL,8.88,1.0,17.0,1.28,6.92,Specialized
-8/10/19,Summer Streets,12.85,1.0,29.0,1.48,8.66,Specialized
-5/4/20,To Zabars,2.2,,15.0,0.25,8.8,Citibike
 6/30/16,Citibike from Work,1.11,,10.0,0.17,6.66,Citibike
-12/29/20,From Trek WS,3.75,,26.0,0.43,8.65,Specialized
-6/22/19,Down ES UP WS,16.23,2.0,28.0,2.47,6.58,Specialized
-7/1/16,Citibike to Work,1.2,,10.0,0.17,7.2,Citibike
-7/8/20,To Citarella,1.08,,9.0,0.15,7.2,Citibike
-9/30/20,Dn ES Up WS,19.83,2.0,10.0,2.17,9.15,Specialized
-10/21/16,Citibike to Work,1.15,,9.0,0.15,7.67,Citibike
-7/11/19,Up ES Down WS,19.47,3.0,9.0,3.15,6.18,Specialized
-7/13/16,Citibike to Work,1.45,,10.0,0.17,8.7,Citibike
-6/7/19,CP BL,7.47,,54.0,0.9,8.3,Specialized
+5/5/21,Dn UWS Up ES,21.25,2.0,31.0,2.52,8.44,Specialized
+7/24/20,From Zabars,2.62,,20.0,0.33,7.86,Citibike
 4/26/21,Dn UWS Up ES,20.85,2.0,34.0,2.57,8.12,Specialized
 6/6/20,CP BL,6.14,,37.0,0.62,9.96,Specialized
+9/12/16,Citibike from Work,1.04,,7.0,0.12,8.91,Citibike
+9/2/19,Roosevelt Island,5.87,,57.0,0.95,6.18,Specialized
+6/1/19,Down ES UP WS,16.91,2.0,30.0,2.5,6.76,Specialized
+7/27/16,Citibike to Work,1.24,,11.0,0.18,6.76,Citibike
+9/24/20,Wards Island x 4,28.23,3.0,6.0,3.1,9.11,Specialized
+6/17/16,Work to Village,4.69,,40.0,0.67,7.04,Citibike
+7/15/19,Up Down ES,3.74,,33.0,0.55,6.8,Specialized
+4/14/21,Dn ES Up LWS,15.84,1.0,55.0,1.92,8.26,Specialized
+7/13/16,Citibike to Work,1.45,,10.0,0.17,8.7,Citibike
+4/16/20,CP BL,7.81,,48.0,0.8,9.76,Specialized
+6/22/16,Citibike to Work,1.45,,10.0,0.17,8.7,Citibike
+10/2/18,Down ES UP WS,15.97,2.0,18.0,2.3,6.94,Specialized
+9/15/16,Citibike to Work,1.3,,10.0,0.17,7.8,Citibike
+12/29/20,From Trek WS,3.75,,26.0,0.43,8.65,Specialized
+9/9/16,Citibike from Work,0.96,,7.0,0.12,8.23,Citibike
+9/3/16,Down ES UP WS,16.72,1.0,52.0,1.87,8.96,Specialized
+7/14/16,Citibike to Work,1.32,,11.0,0.18,7.2,Citibike
+5/7/20,CP BL x 2,13.86,1.0,32.0,1.53,9.04,Specialized
+10/3/16,Citibike to Work,1.31,,10.0,0.17,7.86,Citibike
+6/29/20,Wards Island,11.71,1.0,52.0,1.87,6.27,Specialized
+11/4/16,Citibike to Work Midday,1.23,,13.0,0.22,5.68,Citibike
+7/6/20,Down ES Up WS to GWB,27.9,3.0,45.0,3.75,7.44,Specialized
+9/24/19,CP BL,7.46,,48.0,0.8,9.33,Specialized
+8/4/18,Summer Streets,11.55,1.0,25.0,1.42,8.15,Specialized
+7/26/20,Wards Island,12.67,1.0,35.0,1.58,8.0,Specialized
+10/12/18,CP BL,6.77,,58.0,0.97,7.0,Specialized
+5/31/21,CP BL,7.69,,50.0,0.83,9.23,Specialized
+9/15/19,Roosevelt Island,6.24,1.0,6.0,1.1,5.67,Specialized
+4/28/20,CP BL,7.81,,50.0,0.83,9.37,Specialized
+9/22/16,Work to Westside,4.26,,29.0,0.48,8.81,Citibike
+11/26/19,Roosevelt Island,5.51,1.0,5.0,1.08,5.09,Specialized
+11/25/19,Wards Island,12.4,1.0,39.0,1.65,7.52,Specialized
 8/18/16,Citibike to Work,1.31,,11.0,0.18,7.15,Citibike
+5/5/20,CP BL,7.83,,50.0,0.83,9.4,Specialized
+10/8/20,Wards Island x 2,17.71,2.0,7.0,2.12,8.37,Specialized
+10/17/16,From Orwasher's,1.56,,12.0,0.2,7.8,Citibike
+8/17/20,Up Dn UWS to GWB,16.93,1.0,54.0,1.9,8.91,Specialized
+11/11/20,Dn ES Up LWS,14.81,1.0,40.0,1.67,8.89,Specialized
+10/20/16,Citibike from Work,0.89,,6.0,0.1,8.9,Citibike
+5/12/21,Dn UWS Up ES,20.94,2.0,26.0,2.43,8.61,Specialized
+6/3/20,To From Economy Candy,8.08,1.0,10.0,1.17,6.93,Specialized
+9/14/20,Dn ES Up WS to GWB,27.71,3.0,2.0,3.03,9.14,Specialized
+8/6/19,CP BL Up Down WS,15.0,1.0,46.0,1.77,8.49,Specialized
+5/19/20,Wards Island,12.01,1.0,48.0,1.8,6.67,Specialized
+8/2/16,Citibike from Work,0.98,,8.0,0.13,7.35,Citibike
+6/8/20,To Despana,3.64,,35.0,0.58,6.24,Citibike
+6/2/20,From Astoria,5.38,,52.0,0.87,6.21,Specialized
+7/28/16,Citibike from Work,0.91,,7.0,0.12,7.8,Citibike
+11/4/16,Citibike from Work Midday,0.86,,9.0,0.15,5.73,Citibike
+10/19/16,Citibike to Work,1.53,,10.0,0.17,9.18,Citibike
+6/15/20,Up Down WS to GWB,17.09,1.0,54.0,1.9,8.99,Specialized
+8/5/19,Up ES Up UWS,14.22,1.0,33.0,1.55,9.17,Specialized
+9/20/16,Citibike from Work Midday,0.9,,12.0,0.2,4.5,Citibike
+3/27/21,Dn ES Up UWS to 135,25.17,3.0,6.0,3.1,8.12,Specialized
+11/28/16,Citibike to Work,1.15,,11.0,0.18,6.27,Citibike
+8/4/16,Citibike to Work,1.4,,11.0,0.18,7.64,Citibike
+10/11/16,Citibike to Work,1.33,,11.0,0.18,7.25,Citibike
+10/11/16,Citibike from Work,0.82,,8.0,0.13,6.15,Citibike
+9/7/20,Wards Island x 2,17.75,2.0,10.0,2.17,8.19,Specialized
+7/31/20,To Herald Square,2.65,,19.0,0.32,8.37,Citibike
+10/10/16,Citibike to Work,2.3,,19.0,0.32,7.26,Citibike
+8/15/20,Wards Island,12.7,1.0,36.0,1.6,7.94,Specialized
+6/4/20,Down Up LWS,14.52,1.0,54.0,1.9,7.64,Specialized
+11/2/19,Wards Island,14.2,2.0,9.0,2.15,6.6,Specialized
+10/17/18,CP BL,6.8,,49.0,0.82,8.33,Specialized
+10/19/20,Wards Island x 2,18.06,2.0,14.0,2.23,8.09,Specialized
+11/16/20,Up Dn UWS,9.55,1.0,10.0,1.17,8.19,Specialized
+9/29/19,Wards Island,14.66,1.0,48.0,1.8,8.14,Specialized
+4/8/21,Wards Island,13.25,1.0,44.0,1.73,7.64,Specialized
+8/24/16,Citibike to Work,1.48,,13.0,0.22,6.83,Citibike
+8/4/19,Down ES Up WS,16.79,2.0,2.0,2.03,8.26,Specialized
+8/28/20,To Marimekko,2.67,,21.0,0.35,7.63,Citibike
+7/1/16,Citibike from Work,0.83,,7.0,0.12,7.11,Citibike
+8/28/18,CP BL,6.78,,43.0,0.72,9.46,Specialized
+11/4/20,CP BL,7.81,0.0,51.0,0.85,9.19,Specialized
+11/28/19,Down ES up ES,14.54,1.0,48.0,1.8,8.08,Specialized
+9/2/16,Citibike to Work,1.27,,9.0,0.15,8.47,Citibike
+11/28/16,Citibike from Work,0.81,,7.0,0.12,6.94,Citibike
+11/12/16,To Essex Market,3.43,,29.0,0.48,7.1,Citibike
+9/23/19,CP BL,7.48,,57.0,0.95,7.87,Specialized
+9/8/16,Citibike to Work,1.05,,11.0,0.18,5.73,Citibike
+8/25/16,Citibike to Work,1.18,,10.0,0.17,7.08,Citibike
+5/14/21,Wards Island,13.05,1.0,36.0,1.6,8.16,Specialized
+11/19/16,Down ES UP WS,16.1,1.0,56.0,1.93,8.33,Specialized
+1/13/17,Citibike to Work,1.18,,14.0,0.23,5.06,Citibike
+10/17/16,Work to Orwasher's,2.09,,18.0,0.3,6.97,Citibike
+8/3/18,CP BL,6.75,,47.0,0.78,8.62,Specialized
+4/12/20,CP BL x 2,13.81,1.0,48.0,1.8,7.67,Specialized
+11/17/16,Citibike to Work,1.2,,12.0,0.2,6.0,Citibike
+6/21/20,Down Up Trio (Partial),14.2,2.0,32.0,2.53,5.61,Specialized
+6/27/16,Citibike from Work,0.93,,7.0,0.12,7.97,Citibike
+7/10/16,Down ES UP WS,18.38,2.0,20.0,2.33,7.88,Specialized
+6/26/16,To SOHO,3.33,,30.0,0.5,6.66,Citibike
+9/30/20,Dn ES Up WS,19.83,2.0,10.0,2.17,9.15,Specialized
+6/22/20,West Side Errand,5.19,,42.0,0.7,7.41,Specialized
+9/16/19,From Pier 11,5.91,,49.0,0.82,7.24,Citibike
+7/11/20,Wards Island,13.25,1.0,40.0,1.67,7.95,Specialized
+7/16/16,Down ES UP WS,17.99,2.0,5.0,2.08,8.64,Specialized
+9/6/16,Citibike to Work,1.13,,11.0,0.18,6.16,Citibike
+5/2/20,Wards Island,12.64,1.0,44.0,1.73,7.29,Specialized
+4/5/20,CP BL,7.77,,48.0,0.8,9.71,Specialized
+9/28/20,Wards Island x 2,17.69,2.0,1.0,2.02,8.77,Specialized
+6/8/20,From Warehouse Wines,2.83,,31.0,0.52,5.48,Citibike
+6/23/19,Up ES Down WS,20.76,2.0,58.0,2.97,7.0,Specialized
+7/6/16,Citibike to Work,1.2,,10.0,0.17,7.2,Citibike
+10/7/16,Citibike to Work,1.22,,12.0,0.2,6.1,Citibike
+6/22/20,Wards Island,11.57,1.0,30.0,1.5,7.71,Specialized
+9/23/16,Citibike from Work,1.2,,7.0,0.12,10.29,Citibike
+7/28/16,Citibike to Work,1.05,,8.0,0.13,7.88,Citibike
+12/3/16,Down ES UP WS,16.08,2.0,2.0,2.03,7.91,Specialized
+8/16/16,Citibike to Work,1.12,,12.0,0.2,5.6,Citibike
+10/4/16,Citibike to Work,1.36,,11.0,0.18,7.42,Citibike
+11/7/20,Wards Island x 2,17.75,2.0,1.0,2.02,8.8,Specialized
+9/4/20,To Astor Wines,2.92,,25.0,0.42,7.01,Citibike
+8/6/20,Down ES Up WS to GWB,28.47,3.0,10.0,3.17,8.99,Specialized
+9/17/16,Down ES UP WS,17.25,1.0,49.0,1.82,9.5,Specialized
+3/11/20,Down ES UP WS,17.08,2.0,8.0,2.13,8.01,Specialized
+7/28/19,Roosevelt Island,4.25,,39.0,0.65,6.54,Specialized
+12/3/20,To Artie's in Brooklyn and Back,27.16,3.0,51.0,3.85,7.05,Specialized
+10/20/16,Citibike to Work,1.15,,9.0,0.15,7.67,Citibike
+9/16/16,Citibike from Work,1.01,,7.0,0.12,8.66,Citibike
+6/22/19,Down ES UP WS,16.23,2.0,28.0,2.47,6.58,Specialized
+8/27/19,CP BL x 2,13.66,1.0,49.0,1.82,7.52,Specialized
+2/24/20,Wards Island,11.66,1.0,33.0,1.55,7.52,Specialized
+10/24/16,Citibike to Work,1.39,,9.0,0.15,9.27,Citibike
+7/6/19,Down ES Up WS,16.12,2.0,12.0,2.2,7.33,Specialized
+6/18/20,Wards Island,11.93,1.0,38.0,1.63,7.3,Specialized
+9/23/16,Citibike to Work,1.1,,11.0,0.18,6.0,Citibike
+8/30/19,CP BL x 2,13.7,1.0,59.0,1.98,6.91,Specialized
+4/23/21,Wards Island,13.05,1.0,38.0,1.63,7.99,Specialized
+10/12/16,Citibike from Work,0.84,,7.0,0.12,7.2,Citibike
+7/11/16,Citibike from Work,1.73,,17.0,0.28,6.11,Citibike
+3/22/20,Wards Island,10.92,1.0,22.0,1.37,7.99,Specialized
+12/28/20,To Trek WS,4.98,,40.0,0.67,7.47,Specialized
+12/2/16,Citibike from Work,0.92,,7.0,0.12,7.89,Citibike
+9/6/19,CP BL,7.44,,57.0,0.95,7.83,Specialized
+10/6/16,Citibike from Work,0.94,,7.0,0.12,8.06,Citibike
+5/2/21,Dn ES Up WS to GWB,29.47,3.0,7.0,3.12,9.46,Specialized
+9/30/19,CP BL x 2,13.6,1.0,44.0,1.73,7.85,Specialized
+7/29/16,Citibike to Work,1.05,,12.0,0.2,5.25,Citibike
+8/3/16,Citibike to Work,1.53,,11.0,0.18,8.35,Citibike
+8/31/19,Up UWS Down WS Up ES,21.56,2.0,25.0,2.42,8.92,Specialized
+3/26/20,CP BL x 2,13.52,1.0,28.0,1.47,9.22,Specialized
+5/17/21,Dn ES Up LWS,16.27,1.0,57.0,1.95,8.34,Specialized
+8/3/20,To Kalustiyan's,1.96,,16.0,0.27,7.35,Citibike
+6/29/16,Citibike to Work,1.16,,10.0,0.17,6.96,Citibike
+9/6/20,Dn ES UP WS,17.3,1.0,55.0,1.92,9.03,Specialized
+6/24/16,Citibike to Work,1.21,,10.0,0.17,7.26,Citibike
+12/27/20,From Zabars,1.75,,15.0,0.25,7.0,Citibike
+6/25/20,Down Up LWS,14.57,2.0,11.0,2.18,6.67,Specialized
+11/11/19,Wards Island,14.57,1.0,53.0,1.88,7.74,Specialized
+9/14/16,Citibike to Work,1.09,,11.0,0.18,5.95,Citibike
+10/5/16,Citibike from Work,0.88,,8.0,0.13,6.6,Citibike
+7/18/20,CP ML,6.47,,36.0,0.6,10.78,Specialized
+3/20/20,From Despana,4.28,,40.0,0.67,6.42,Citibike
+7/29/20,Wards Island,12.55,1.0,43.0,1.72,7.31,Specialized
+6/21/16,Citibike to Work,1.12,,10.0,0.17,6.72,Citibike
+8/19/16,Citibike from Work,1.24,,7.0,0.12,10.63,Citibike
+3/9/21,Dn ES Up LWS,15.9,2.0,20.0,2.33,6.81,Specialized
+8/8/19,To Zabars,2.29,,19.0,0.32,7.23,Citibike
+8/8/16,Citibike from Work,0.95,,8.0,0.13,7.13,Citibike
+8/13/20,Down LWS Up LES,14.75,1.0,57.0,1.95,7.56,Specialized
+8/4/16,Citibike from Work,1.01,,8.0,0.13,7.58,Citibike
+5/24/20,CP BL,7.71,,49.0,0.82,9.44,Specialized
+6/30/19,CP BL,6.79,,42.0,0.7,9.7,Specialized
+3/12/20,To Essex Market,3.85,,35.0,0.58,6.6,Citibike
+9/12/20,Wards Island x 3,22.91,2.0,35.0,2.58,8.87,Specialized
+10/25/16,Citibike to Work,1.46,,10.0,0.17,8.76,Citibike
+10/8/18,CP BL,7.55,,52.0,0.87,8.71,Specialized
+8/2/16,Citibike to Work,1.29,,11.0,0.18,7.04,Citibike
+7/24/20,To Zabars,2.07,,16.0,0.27,7.76,Citibike
+5/25/20,Downtown Trio,4.77,,59.0,0.98,4.85,Specialized
+11/9/20,Dn ES Up WS,17.7,2.0,3.0,2.05,8.63,Specialized
+6/28/20,Uptown Trio,3.95,,26.0,0.43,9.12,Specialized
+8/24/16,Citibike from Work,0.83,,8.0,0.13,6.23,Citibike
+7/8/18,CP BL,7.04,,47.0,0.78,8.99,Specialized
+8/26/19,Down ES Up UWS,21.9,2.0,55.0,2.92,7.51,Specialized
+8/20/20,Dn WS Up ES thru CP,16.91,2.0,10.0,2.17,7.8,Specialized
+10/24/16,Citibike from Work,1.75,,16.0,0.27,6.56,Citibike
+8/26/20,Dn ES Up WS,17.02,2.0,2.0,2.03,8.37,Specialized
+3/24/20,CP BL,7.4,,48.0,0.8,9.25,Specialized
+9/16/16,Citibike from Work Midday,0.74,,6.0,0.1,7.4,Citibike
+10/12/16,Citibike to Work,1.49,,10.0,0.17,8.94,Citibike
+11/11/16,Citibike to Work,1.3,,11.0,0.18,7.09,Citibike
+7/14/16,Citibike from Work,1.07,,8.0,0.13,8.03,Citibike
+11/6/19,Down ES UP WS,16.63,2.0,,2.0,8.32,Specialized
+3/9/20,Wards Island,11.11,1.0,20.0,1.33,8.33,Specialized
+11/16/16,Citibike to Work,1.08,,11.0,0.18,5.89,Citibike
+8/20/16,Summer Streets Up WS,17.46,2.0,21.0,2.35,7.43,Specialized
+9/22/16,Citibike to Work,1.05,,11.0,0.18,5.73,Citibike
+8/5/16,Citibike to Work,1.31,,10.0,0.17,7.86,Citibike
+7/17/16,Down ES UP WS,17.67,2.0,5.0,2.08,8.48,Specialized
+10/21/16,Citibike from Work,3.51,,26.0,0.43,8.1,Citibike
+11/14/16,Citibike from Work,0.82,,7.0,0.12,7.03,Citibike
+9/10/16,Down ES UP WS,20.41,2.0,26.0,2.43,8.39,Specialized
+5/24/19,CP BL,6.79,,47.0,0.78,8.67,Specialized
+8/17/16,Citibike from Work,0.96,,10.0,0.17,5.76,Citibike
+5/25/20,Uptown Trio,4.27,,34.0,0.57,7.54,Specialized
+6/7/21,Dn ES Up LWS,16.45,1.0,58.0,1.97,8.36,Specialized
+10/22/20,Wards Island,12.42,1.0,40.0,1.67,7.45,Specialized
+8/19/16,Citibike to Work,1.16,,10.0,0.17,6.96,Citibike
+12/29/20,To Trek WS,3.39,,19.0,0.32,10.71,Citibike
+11/14/16,Citibike to Work,1.22,,11.0,0.18,6.65,Citibike
+5/4/20,To Zabars,2.2,,15.0,0.25,8.8,Citibike
+4/6/20,CP BL,8.88,1.0,17.0,1.28,6.92,Specialized
+10/15/19,Wards Island,14.2,1.0,44.0,1.73,8.19,Specialized
+10/17/16,Citibike to Work,1.19,,10.0,0.17,7.14,Citibike
+9/5/20,Wards Island x 2,17.72,2.0,0.0,2.0,8.86,Specialized
+9/19/20,Dn ES Up WS,17.21,1.0,59.0,1.98,8.68,Specialized
+8/18/16,Citibike from Work,0.79,,6.0,0.1,7.9,Citibike
+1/13/17,Citibike from Work,1.01,,8.0,0.13,7.58,Citibike
+5/19/21,Up Dn WS to GWB Up ES,29.87,3.0,14.0,3.23,9.24,Specialized
+8/30/20,Wards Island x 2,17.56,2.0,7.0,2.12,8.3,Specialized
+8/17/16,Citibike to Work,1.27,,11.0,0.18,6.93,Citibike
+9/28/19,Down ES Up WS,16.16,1.0,35.0,1.58,10.21,Specialized
+7/30/20,Wards Island Astoria,18.28,2.0,31.0,2.52,7.26,Specialized
+8/10/20,Wards Island,12.83,1.0,56.0,1.93,6.64,Specialized
+4/18/21,Dn ES Up LWS,16.25,2.0,5.0,2.08,7.8,Specialized
+10/18/16,Citibike to Work,1.23,,10.0,0.17,7.38,Citibike
+6/30/20,Down Up LWS,14.95,1.0,48.0,1.8,8.31,Specialized
+10/1/19,CP BL,7.43,1.0,6.0,1.1,6.75,Specialized
+8/27/17,CP BL,6.75,,43.0,0.72,9.42,Specialized
+7/14/20,Down Up LWS,14.34,1.0,41.0,1.68,8.52,Specialized
+8/18/18,Summer Streets,11.25,1.0,24.0,1.4,8.04,Specialized
+8/22/20,Wards Island x 2,17.58,2.0,12.0,2.2,7.99,Specialized
+9/16/16,Citibike to Work Midday,1.09,,13.0,0.22,5.03,Citibike
+8/10/19,Summer Streets,12.85,1.0,29.0,1.48,8.66,Specialized
+5/27/20,Up Down WS to GWB,17.13,2.0,5.0,2.08,8.22,Specialized
+9/9/19,To Essex Market,3.71,,31.0,0.52,7.18,Citibike
+9/13/20,CP BL,7.51,0.0,42.0,0.7,10.73,Specialized
+6/23/16,Citibike to Work,1.27,,10.0,0.17,7.62,Citibike
+9/20/19,CP BL,7.53,,51.0,0.85,8.86,Specialized
+8/31/20,From Marimekko,2.77,,23.0,0.38,7.23,Citibike
+6/19/21,Wards Island Exploration,16.48,1.0,59.0,1.98,8.31,Specialized
+6/7/19,CP BL,7.47,,54.0,0.9,8.3,Specialized
+9/4/19,Down ES Up UWS,21.96,2.0,46.0,2.77,7.94,Specialized
+10/13/16,Citibike to Work,1.16,,9.0,0.15,7.73,Citibike
+12/2/16,Citibike to Work,1.17,,11.0,0.18,6.38,Citibike
+9/3/16,Essex Market,3.38,,28.0,0.47,7.24,Citibike
+7/31/20,From Herald Square,2.85,,25.0,0.42,6.84,Citibike
+11/18/16,Citibike from Work,0.84,,7.0,0.12,7.2,Citibike
+8/1/20,Down Up LWS,14.71,1.0,27.0,1.45,10.14,Specialized
+12/24/20,Dn ES Up LWS,13.79,1.0,41.0,1.68,8.19,Specialized
+4/25/19,CP BL,7.46,,54.0,0.9,8.29,Specialized
+7/5/19,CP BL,6.76,,52.0,0.87,7.8,Specialized
+6/26/19,CP BL x 2,12.93,1.0,30.0,1.5,8.62,Specialized
+10/21/16,Citibike to Work,1.15,,9.0,0.15,7.67,Citibike
+8/9/19,Down ES Up WS to GWB,26.64,3.0,35.0,3.58,7.43,Specialized
+6/14/20,Down Up LWS,13.63,1.0,29.0,1.48,9.19,Specialized
+8/5/16,Work to Lupe's,3.89,,24.0,0.4,9.73,Citibike
+5/13/20,CP BL x 2,13.82,1.0,32.0,1.53,9.01,Specialized
+8/9/20,Down ES Up LWS,15.04,1.0,42.0,1.7,8.85,Specialized
+8/9/16,Citibike to Work,1.31,,11.0,0.18,7.15,Citibike
+8/3/16,Citibike from Work,0.83,,7.0,0.12,7.11,Citibike
+10/25/16,Citibike from Work,0.82,,7.0,0.12,7.03,Citibike
+9/9/16,Citibike to Work,1.11,,11.0,0.18,6.05,Citibike
+7/1/16,Citibike to Work,1.2,,10.0,0.17,7.2,Citibike
+5/28/16,CP BL,7.99,,50.0,0.83,9.59,Specialized
+6/15/16,Citibike to Work,1.04,,9.0,0.15,6.93,Citibike
+6/28/20,Downtown Trio,4.1,,34.0,0.57,7.24,Specialized
+9/11/19,CP BL,7.53,1.0,,1.0,7.53,Specialized
+5/17/20,CP BL,7.71,,48.0,0.8,9.64,Specialized
+10/5/16,Citibike to Work Midday,1.16,,13.0,0.22,5.35,Citibike
+6/16/21,To Kalustiyan's,1.89,,16.0,0.27,7.09,Citibike
+7/22/20,Down Up LWS,14.82,1.0,47.0,1.78,8.31,Specialized
+7/11/16,Citibike to Work,1.46,,10.0,0.17,8.76,Citibike
+9/17/19,CP BL,7.31,,59.0,0.98,7.43,Specialized
+9/6/16,Citibike from Work,0.91,,10.0,0.17,5.46,Citibike
+8/31/20,To Marimekko,2.6,,21.0,0.35,7.43,Citibike
+6/27/16,Citibike to Work,1.08,,11.0,0.18,5.89,Citibike
+11/4/16,Citibike to Work,1.12,,10.0,0.17,6.72,Citibike
+7/15/20,CP BL,7.42,,45.0,0.75,9.89,Specialized
+8/28/20,To Fogo de Chao,1.65,,13.0,0.22,7.62,Citibike
+6/24/16,Work to W 4th,3.63,,27.0,0.45,8.07,Citibike
+7/27/19,Wards Island,11.01,1.0,41.0,1.68,6.54,Specialized
+9/3/20,Up WS to GWB Up ES,28.49,3.0,7.0,3.12,9.14,Specialized
+9/8/19,Wards Island,11.43,1.0,32.0,1.53,7.45,Specialized
+7/11/19,Up ES Down WS,19.47,3.0,9.0,3.15,6.18,Specialized
+9/25/20,To Fairway ES,1.56,,14.0,0.23,6.69,Citibike
+7/28/20,CP BL,7.38,,52.0,0.87,8.52,Specialized
+1/17/21,Dn ES Up LWS,15.41,2.0,2.0,2.03,7.58,Specialized
+7/5/20,UWS to GWB Down Thru CP,17.63,1.0,56.0,1.93,9.12,Specialized
+6/9/20,CP BL x 2,13.51,1.0,24.0,1.4,9.65,Specialized
+11/11/16,Citibike from Work,1.0,,10.0,0.17,6.0,Citibike
+9/27/19,Wards Island,13.24,1.0,39.0,1.65,8.02,Specialized
+8/12/19,CP BL,6.79,,48.0,0.8,8.49,Specialized
+10/7/17,CP BL,7.41,,52.0,0.87,8.55,Specialized
+6/19/16,Down ES Up ES,13.98,1.0,51.0,1.85,7.56,Specialized
+7/3/20,Wards Island,12.98,1.0,46.0,1.77,7.35,Specialized
+4/19/20,CP BL,7.77,,49.0,0.82,9.51,Specialized
+7/24/19,Down ES Up WS,16.29,2.0,36.0,2.6,6.27,Specialized
+8/3/20,Wards Island,12.5,1.0,45.0,1.75,7.14,Specialized
+9/19/19,Wards Island,12.38,1.0,32.0,1.53,8.07,Specialized
+9/8/20,Up WS to GWB Up ES,28.17,3.0,14.0,3.23,8.71,Specialized
+5/11/21,To Toyota,2.49,,21.0,0.35,7.11,Citibike
+9/4/20,From Astor Wines,3.72,,31.0,0.52,7.2,Citibike
+8/6/16,Summer Streets,13.91,1.0,54.0,1.9,7.32,Specialized
+8/16/16,Citibike from Work,1.11,,10.0,0.17,6.66,Citibike
+7/8/20,To Citarella,1.08,,9.0,0.15,7.2,Citibike
+3/26/21,To El Tepeyac,3.1,,28.0,0.47,6.64,Citibike
+10/18/16,Citibike from Work,0.92,,9.0,0.15,6.13,Citibike
+9/12/16,Citibike to Work,1.15,,11.0,0.18,6.27,Citibike
+6/12/19,CP BL,6.8,,47.0,0.78,8.68,Specialized
+10/25/18,CP ML,5.93,,36.0,0.6,9.88,Specialized
+3/20/20,To Despana,3.5,,30.0,0.5,7.0,Citibike
+12/11/20,Dn ES Up WS,21.6,2.0,36.0,2.6,8.31,Specialized
+7/26/19,To Essex Market,3.14,,27.0,0.45,6.98,Citibike
+8/8/16,Citibike to Work,1.25,,10.0,0.17,7.5,Citibike
+6/16/21,Up Dn WS to GWB Up ES,30.18,3.0,32.0,3.53,8.54,Specialized
+7/13/20,Wards Island,13.59,1.0,43.0,1.72,7.92,Specialized
+8/23/16,Citibike to Work,1.46,,15.0,0.25,5.84,Citibike
+4/14/20,CP BL x 3,19.93,2.0,6.0,2.1,9.49,Specialized
+6/2/20,To Astoria,5.09,,40.0,0.67,7.64,Specialized
+12/27/20,To Zabars,2.3,,21.0,0.35,6.57,Citibike
+8/7/16,Down ES UP WS,16.89,1.0,57.0,1.95,8.66,Specialized
+8/3/20,From Kalustyan's,2.55,,24.0,0.4,6.38,Citibike
+8/24/20,Dn WS Up ES,17.12,2.0,5.0,2.08,8.22,Specialized
+7/8/20,From Citarella,1.18,,13.0,0.22,5.45,Citibike
+4/7/20,CP BL x 2,13.98,1.0,43.0,1.72,8.14,Specialized
+7/25/20,Down Up LWS,14.47,1.0,43.0,1.72,8.43,Specialized
+11/27/19,Wards Island,9.93,1.0,27.0,1.45,6.85,Specialized
+9/3/19,CP BL,7.53,,51.0,0.85,8.86,Specialized
+6/23/20,UWS Thru CP to GWB+,22.42,2.0,54.0,2.9,7.73,Specialized
+9/15/16,Citibike from Work,0.82,,7.0,0.12,7.03,Citibike
+8/19/17,Summer Streets,10.08,1.0,14.0,1.23,8.17,Specialized
+8/29/19,Wards Island,11.05,1.0,32.0,1.53,7.21,Specialized
+10/4/16,Citibike from Work,0.82,,7.0,0.12,7.03,Citibike
+8/2/16,Citibike to Work Midday,1.03,,13.0,0.22,4.75,Citibike
+11/16/16,Citibike from Work,1.72,,15.0,0.25,6.88,Citibike
+6/4/19,To Essex Market,3.51,,35.0,0.58,6.02,Citibike
+11/27/20,Wards Island x 2 Astoria,22.87,2.0,48.0,2.8,8.17,Specialized
+6/16/20,Down WS Up WS to GWB,26.63,3.0,8.0,3.13,8.5,Specialized
+11/5/20,Dn UWS Up ES,21.25,2.0,36.0,2.6,8.17,Specialized
+10/13/19,Down ES Up UWS,21.72,2.0,52.0,2.87,7.58,Specialized
+2/24/21,Dn ES Up LWS,14.65,1.0,54.0,1.9,7.71,Specialized
+6/16/21,From Kalustyan's,2.43,,22.0,0.37,6.63,Citibike
+5/26/20,Down Up LWS,13.35,1.0,30.0,1.5,8.9,Specialized
+7/8/16,Citibike to Work,1.16,,10.0,0.17,6.96,Citibike
+6/17/16,Citibike to Work,1.2,,13.0,0.22,5.54,Citibike
+9/26/20,Up Dn WS to GWB Up ES,29.69,3.0,10.0,3.17,9.38,Specialized
+9/17/20,Wards Island,12.7,1.0,33.0,1.55,8.19,Specialized
+6/10/20,UWS to Inwood,22.06,2.0,58.0,2.97,7.44,Specialized
+9/20/16,Citibike to Work Midday,1.3,,10.0,0.17,7.8,Citibike
+9/22/20,Up Dn WS to GWB Up ES,28.57,2.0,56.0,2.93,9.74,Specialized
+4/2/20,CP BL,7.73,,55.0,0.92,8.43,Specialized
+9/4/16,Down ES UP WS,16.7,1.0,56.0,1.93,8.64,Specialized
+3/21/21,Dn ES Up LWS,15.74,2.0,1.0,2.02,7.8,Specialized
+10/28/19,Up Down WS,10.88,1.0,25.0,1.42,7.68,Specialized
+5/4/20,From Fairway,2.43,,21.0,0.35,6.94,Citibike
+10/13/16,Work to 68th St.,1.29,,10.0,0.17,7.74,Citibike
+5/23/21,Wards Island,14.52,1.0,58.0,1.97,7.38,Specialized
+9/14/19,Wards Island,13.27,1.0,40.0,1.67,7.96,Specialized
+7/16/20,Wards Island,12.8,1.0,36.0,1.6,8.0,Specialized
+4/6/21,Wards Island,12.59,1.0,47.0,1.78,7.06,Specialized
+9/20/16,Citibike to Work,1.09,,12.0,0.2,5.45,Citibike
+11/17/16,Citibike from Work,0.79,,7.0,0.12,6.77,Citibike
+6/7/20,To From Astoria,8.25,2.0,1.0,2.02,4.09,Specialized
+6/21/16,Citibike from Work,0.78,,7.0,0.12,6.69,Citibike
+7/3/16,Down ES UP WS,17.84,2.0,10.0,2.17,8.23,Specialized
