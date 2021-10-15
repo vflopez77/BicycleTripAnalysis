@@ -101,4 +101,4 @@ print('Misclassified Records:')
 display(err_details_df.to_string())
 
 # Print formatted Accuracy Score
-print('Accruacy is: {:.2f}'.format(accu_score * 100) + '%')
+print('Accruacy Score is: {:.2f}'.format(accu_score * 100) + '%')
